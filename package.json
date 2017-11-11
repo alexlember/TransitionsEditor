@@ -1,0 +1,14 @@
+{
+  "name": "transitionseditor",
+  "version": "1.0.0",
+  "description": "Module for editing Transitions instead of finadmin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a.lemberskiy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
